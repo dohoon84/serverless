@@ -19,7 +19,7 @@ setup
 lamb-cli
 ```
 
-1.블로코 구글계정으로 로그인 합니다. 타 구글계정으로의 로그인 접근은 불가합니다.
+1.구글계정으로 로그인 합니다. 타 구글계정으로의 로그인 접근은 불가합니다.
 >$] python lamb.py login
 
 2.CLI를 통해 gitlab repository를 생성합니다.
